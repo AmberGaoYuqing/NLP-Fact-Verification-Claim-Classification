@@ -6,13 +6,6 @@ This repository contains the implementation for our automated fact-checking syst
 
 ---
 
-## Project Team Members
-- Lingxiao Qu 
-- Yuqing Gao 
-- Binhui Zeng 
-
----
-
 ## File Structure
 
 - `main.ipynb`: Main Jupyter Notebook with all code and results
@@ -110,5 +103,12 @@ We report the following metrics:
 - Harmonic Mean of retrieval and classification performance  
 
 All scores are computed using the `eval.py` script and logic.
+
+---
+
+## Project Team Members
+- Lingxiao Qu 
+- Yuqing Gao 
+- Binhui Zeng 
 
 ---
