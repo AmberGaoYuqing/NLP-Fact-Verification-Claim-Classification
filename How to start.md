@@ -15,7 +15,7 @@ This repository contains the implementation for our automated fact-checking syst
 
 ## File Structure
 
-- `NLP_Project_2025.ipynb`: Main Jupyter Notebook with all code and results
+- `main.ipynb`: Main Jupyter Notebook with all code and results
 - `eval.py`: Provided evaluation script for scoring retrieval and classification
 - `data`: Directory containing the `train-claims.json`, `dev-claims.json`, `test-claims-unlabelled.json`, and `evidence.json` files
 
